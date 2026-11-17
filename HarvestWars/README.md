@@ -1,10 +1,14 @@
-Harvest Wars Custom Engine Game
+\# Harvest Wars — Custom Engine Game
 
 
 
-!\[Collision test](Assets/CollisionTest.gif)
+!\[Collision Test](Assets/CollisionTest.gif)
 
 
 
-https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0
+\## Download
+
+
+
+\[Download Harvest Wars v1.0](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0)
 
