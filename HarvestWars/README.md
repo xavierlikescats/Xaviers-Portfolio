@@ -2,7 +2,7 @@ Harvest Wars Custom Engine Game
 
 
 
-!\[Collision test](assets/CollisionTest.gif)
+!\[Collision test](Assets/CollisionTest.gif)
 
 
 
