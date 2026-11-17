@@ -2,7 +2,9 @@
 
 
 
-![Collision Test](Assets/CollisionTest.gif)
+<p align="center">
+  <img src="Assets/CollisionTest.gif" alt="Collision Test" width="650">
+</p>
 
 
 
