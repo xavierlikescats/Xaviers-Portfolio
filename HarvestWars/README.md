@@ -37,6 +37,10 @@ Tile collisions were my main responsibility on the project, and it took the most
 ### 1. Making tiles collide anywhere
 The original collision only worked for tiles on the outer border. I rewrote it to convert each ball's check points into tile space, find the tile at each point, and respond if it's solid. A helper function generates the check points around the ball, so adding more points (left, right, up, down, and later the corners) took one line instead of a block of code per point.
 
+```cpp
+// temp
+```
+
 ### 2. The matrix bug
 For weeks, collisions were *almost* right but kept breaking in some directions. Each fix worked for one wall and broke the others. I eventually went back to the tile-to-world matrix itself and checked the math by hand in Desmos. The translation used half the tileset's width and height, which assumes the tileset is centered at the origin. It wasn't, so every converted point was slightly off. It was close enough that neither I nor my teammate had caught it in review. After fixing the translation, the rest of the collision code worked as written.
 
