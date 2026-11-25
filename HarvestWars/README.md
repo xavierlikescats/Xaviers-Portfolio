@@ -73,4 +73,3 @@ Closing the game with the window's X caused a crash from a **double delete**. Se
 
 Besides programming, I turned the course rubric into a prioritized list of code tasks for the team, posted it on our Discord, and kept it updated through the final milestones so everyone knew what they owned.
 
-**Team:** [Names and roles. Ask teammates before listing them.]
