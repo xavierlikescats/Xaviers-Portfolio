@@ -5,8 +5,7 @@
 ![Harvest Wars gameplay]<p align="center">
   <img src="Assets/CollisionTest.gif" alt="Collision Test" width="650">
 </p>
-▶ **[Download playable Windows build](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0)**
-
+▶ **[Download playable Windows build]**(https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0)
 Fruits vs. Veggies. Take turns launching your pieces into your opponent's pieces until all of theirs are destroyed.
 
 **Role:** Programmer (team of N)
