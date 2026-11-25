@@ -2,9 +2,8 @@
 
 **Two-player, turn-based physics game · Custom C++ engine · DigiPen team project (GAM200/250), 2025–2026**
 
-![Harvest Wars gameplay]
 <p align="center">
-  <img src="Assets/CollisionTest.gif" alt="Collision Test" width="650">
+  ![Harvest Wars gameplay]<img src="Assets/CollisionTest.gif" alt="Collision Test" width="650">
 </p>
 
 ▶ [Download playable Windows build](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0)
