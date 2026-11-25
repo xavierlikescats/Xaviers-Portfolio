@@ -11,7 +11,7 @@ I work mainly in C++ and Unreal Engine 5, with experience in custom engines, gam
 **Custom C++ engine · Team project · 2025–2026**
 
 <p align="center">
-  <img src="Assets/CollisionTest.gif" alt="Collision Test" width="650">
+  <img src="HarvestWars/Assets/CollisionTest.gif" alt="Collision Test" width="650">
 </p>
 
 A two-player, turn-based physics game built in a custom C++ engine.
