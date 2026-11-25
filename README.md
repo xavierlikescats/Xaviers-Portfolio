@@ -17,7 +17,7 @@ I work mainly in C++ and Unreal Engine 5, with experience in custom engines, gam
 A two-player, turn-based physics game built in a custom C++ engine.
 
 **Role:** Programmer
-**Systems I built:** Tile collision, tilemap and serialization, transforms and entities, scene transitions, turn indicators, UI audio, credits
+**Systems I built:** Tile collision, tilemap and its serialization, transforms and entities, scene transitions, turn indicators, UI audio, credits
 
 ▶ [Download Harvest Wars v1.0](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0) · [Project details](HarvestWars/)
 
