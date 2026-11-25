@@ -26,7 +26,9 @@ A two-player, turn-based physics game built in a custom C++ engine.
 ## 🛠️ In Progress
 
 **Fossil Dwellers** — Unreal Engine 5, team project
+
 Runtime mining system using dynamic mesh subtraction for destructible terrain, with physics-based debris.
 
 **Procedural Dungeon Generator** — Unreal Engine 5, solo project
+
 Branching room generation with dynamic doors and key-and-lock progression.
