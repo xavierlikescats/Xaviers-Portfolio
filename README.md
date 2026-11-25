@@ -30,6 +30,3 @@ Runtime mining system using dynamic mesh subtraction for destructible terrain, w
 
 **Procedural Dungeon Generator** — Unreal Engine 5, solo project
 Branching room generation with dynamic doors and key-and-lock progression.
-
-**Game AI & Pathfinding** — C++, coursework
-Behavior-tree agents, A* pathfinding, and terrain visibility analysis.
