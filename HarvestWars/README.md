@@ -10,7 +10,7 @@
 
 Fruits vs. Veggies. Take turns launching your pieces into your opponent's pieces until all of theirs are destroyed.
 
-**Role:** Programmer (team of 4)
+**Role:** Programmer (team of 4)\
 **Tech:** C++, custom engine, Tiled, JSON serialization, ImGui
 
 ---
