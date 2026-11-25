@@ -7,9 +7,10 @@
 </p>
 
 ▶ [Download playable Windows build](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0)
+
 Fruits vs. Veggies. Take turns launching your pieces into your opponent's pieces until all of theirs are destroyed.
 
-**Role:** Programmer (team of N)
+**Role:** Programmer (team of 4)
 **Tech:** C++, custom engine, Tiled, JSON serialization, ImGui
 
 ---
