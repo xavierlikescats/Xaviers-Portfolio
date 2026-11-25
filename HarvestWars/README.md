@@ -32,7 +32,7 @@ Fruits vs. Veggies. Take turns launching your pieces into your opponent's pieces
 
 ## Deep Dive: Tile Collision
 
-Collision was my main responsibility on the project, and it took the most iteration.
+Tile collisions were my main responsibility on the project, and it took the most iteration.
 
 ### 1. Making tiles collide anywhere
 The original collision only worked for tiles on the outer border. I rewrote it to convert each ball's check points into tile space, find the tile at each point, and respond if it's solid. A helper function generates the check points around the ball, so adding more points (left, right, up, down, and later the corners) took one line instead of a block of code per point.
