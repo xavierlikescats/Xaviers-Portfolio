@@ -16,7 +16,7 @@ I work mainly in C++ and Unreal Engine 5, with experience in custom engines, gam
 
 A two-player, turn-based physics game built in a custom C++ engine.
 
-**Role:** Programmer
+**Role:** Programmer\
 **Systems I built:** Tile collision, tilemap and its serialization, transforms and entities, scene transitions, turn indicators, UI audio, credits
 
 ▶ [Download Harvest Wars v1.0](https://github.com/xavierlikescats/Xaviers-Portfolio/releases/tag/Harvest-Wars-v1.0) · [Project details](HarvestWars/)
@@ -25,10 +25,8 @@ A two-player, turn-based physics game built in a custom C++ engine.
 
 ## 🛠️ In Progress
 
-**Fossil Dwellers** — Unreal Engine 5, team project
-
+**Fossil Dwellers** — Unreal Engine 5, team project\
 Runtime mining system using dynamic mesh subtraction for destructible terrain, with physics-based debris.
 
-**Procedural Dungeon Generator** — Unreal Engine 5, solo project
-
+**Procedural Dungeon Generator** — Unreal Engine 5, solo project\
 Branching room generation with dynamic doors and key-and-lock progression.
