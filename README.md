@@ -3,7 +3,7 @@
 Computer Science and Game Design student at DigiPen Institute of Technology (expected 2028), looking for game programming and game design internships.
 I work mainly in C++ and Unreal Engine 5, with experience in custom engines, gameplay systems, collision, procedural generation, and game AI.
 
-📧 xavierlikescats@gmail.com · 📄 [Resume]([Assets/Resume.pdf](https://github.com/xavierlikescats/Xaviers-Portfolio/raw/main/Assets/Resume.pdf))
+📧 xavierlikescats@gmail.com · 📄 [Resume](https://github.com/xavierlikescats/Xaviers-Portfolio/raw/main/Assets/Resume.pdf)
 
 ---
 
